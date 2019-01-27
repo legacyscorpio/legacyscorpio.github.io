@@ -1,0 +1,33 @@
+body, html {
+  height: 100%;
+  width: 100%;
+}
+.startup {
+  /* The image used */
+  background-image: url("image1.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+}
+
+header.startup hr {
+  border-top:3px solid orange;
+  max-width: 65px;
+  margin-top: 200px;
+}
+
+#div1 {
+	background-color: rgba(100,100,100,.5);
+	padding: 10px 10px 10px 10px;
+
+}
+
+#best {
+	font-family: "Montserrat", "sans-serif";
+}
